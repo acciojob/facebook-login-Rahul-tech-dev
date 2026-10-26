@@ -40,6 +40,7 @@ button{
     border-radius: 5px;
     padding: 10px 20px;
     color: white;
+	width:100%;
 }
 #signup{
     background-color: #42b72a;
